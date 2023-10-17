@@ -78,7 +78,7 @@ main {
 
 
 .ceremonia {
-  background-color: aliceblue;
+  background-color: #f7f7f7;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -261,7 +261,7 @@ h3 {
 }
 
 .regalos__texto {
-  color: #ff8293;
+  color: #727272;
   font-size: 1.3rem;
   text-align: center;
   font-family: 'Ysabeau', sans-serif;
@@ -270,15 +270,14 @@ h3 {
 .regalos__boton {
   margin-top: 30px;
   padding: 10px 20px;
-  border: #597ee2 1px solid;
+  border: #ffc5f0 1px solid;
   border-radius: 5px;
-  box-shadow: 2px 2px 2px #597ee2;
+  box-shadow: 2px 2px 2px #ffc5f0;
   transition: 0.5s;
 }
 
 .regalos__boton:hover {
-  background-color:  #597ee2;
-  color: #fff;
+  background-color:  #ffc5f0;
   box-shadow: none;
 }
 
@@ -286,7 +285,7 @@ h3 {
 
 .modal-container {
   position: fixed;
-  background-color: rgba(221, 193, 144, 0.8);
+  background-color: rgba(205, 206, 250, 0.8);
   top: 0;
   left: 0;
   width: 100vw;
