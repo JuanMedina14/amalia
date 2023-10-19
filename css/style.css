@@ -366,7 +366,12 @@ h3 {
 }
 
 
-
+.btn_wsp{
+  width: 30%;
+  margin: auto;
+  margin-top: 20px;
+  margin-left: 40%;
+}
 /* ::::::::::::::::::::: FORMULARIO PARA VALIDAR CON PHP  :::::::::::::: */
 
 /* h5 {
@@ -535,6 +540,17 @@ form textarea:focus {
   .ceremonia__item1 {
     height: 370px;
   }
+
+
+  .btn_wsp{
+    margin-bottom: 5px;
+  }
+
+  
+
+  .footer{
+    display: none;
+  }
 }
 
 
@@ -669,7 +685,7 @@ form textarea:focus {
 
 
   .formulario {
-    height: 400px;
+    height: 500px;
   }
 
   .formulario__titulo {
